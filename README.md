@@ -3,6 +3,8 @@ rumble.js是一个slider lib，基于jQuery，实现（无缝循环/水平/垂�
 
 
 配合animate.css实现动画效果
+```bash
     <div class="animated" data-animation="flipInX" data-animation-duration="1500" data-animation-delay="500"></div>
+```
 # demo
 http://qiangonline.github.io/rumble/
