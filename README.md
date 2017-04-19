@@ -17,6 +17,7 @@ rumble.js是一个slider lib，基于jQuery，实现（无缝循环/水平/垂�
 
 ```
 ```
+<!-- HTML -->
 <div class="rumble-wrapper">
     <div class="slide">
         <div class="animated" data-animation="rollIn" style="position:absolute; left: 0; top: 3rem; width:100%; text-align: center;color:#fff;">
@@ -34,6 +35,7 @@ rumble.js是一个slider lib，基于jQuery，实现（无缝循环/水平/垂�
 </div>
 ```
 ```bash
+<!-- 每个“滑块”内动画元素 -->
 <div class="animated" data-animation="flipInX" data-animation-duration="1500" data-animation-delay="500"></div>
 ```
 # demo
