@@ -2,6 +2,7 @@
 rumble.js是一个slider lib，基于jQuery，实现（无缝循环/水平/垂直）滑动效果，实现每个“滑块”内动画。
 ## 使用
 ```
+<link href="animate/animate.css" rel="stylesheet" />
 <link href="rumble/rumble.css" rel="stylesheet" />
 ...
 <script src="jquery/jquery-2.1.3.js"></script>
